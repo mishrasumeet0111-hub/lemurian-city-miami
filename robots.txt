@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://miami.lemurianstudios.com/sitemap.xml
